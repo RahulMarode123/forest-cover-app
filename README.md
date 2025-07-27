@@ -48,12 +48,3 @@ Streamlit
 
 PIL (Pillow)
 
-Rahul Marode
-
-4rd Year Engineering Student (Electronics & Telecommunication)
-
-Python Programmer | AI/ML Enthusiast
-
-CTO | EVRobotics Skill Coach India Ambassador
-
-Connect on LinkedIn (www.linkedin.com/in/rahul-marode-a41833257)
